@@ -49,6 +49,6 @@ The workflow for this project involves the following steps:
 
 | Model Type         | MAE   | RMSE  |
 |--------------------|-------|-------|
-| Multimodal (Image + Tabular) | **21.3K** | **29.7K** |
+| Multimodal (Image + Tabular) | **22.3K** | **30.1K** |
 
 ---
