@@ -67,11 +67,11 @@ Multimodal ML • CNN-based feature extraction • Feature fusion • Regression
 
 ## 🧠 Skills Demonstrated
 
-- ✅ Transformer-based NLP with Hugging Face  
-- ✅ ML pipelines and deployment using scikit-learn & joblib  
-- ✅ Multimodal deep learning (images + tabular data)  
-- ✅ Model evaluation: Accuracy, F1, MAE, RMSE  
-- ✅ Interactive deployment via Streamlit/Gradio  
-- ✅ Code modularization & GitHub documentation best practices  
+-  Transformer-based NLP with Hugging Face  
+-  ML pipelines and deployment using scikit-learn & joblib  
+-  Multimodal deep learning (images + tabular data)  
+-  Model evaluation: Accuracy, F1, MAE, RMSE  
+-  Interactive deployment via Streamlit/Gradio  
+-  Code modularization & GitHub documentation best practices  
 
 ---
